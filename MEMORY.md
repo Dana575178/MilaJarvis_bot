@@ -42,6 +42,24 @@
 
 ---
 
+## Моя команда
+
+> Мои специалисты-скиллы (нейросотрудники). Агент подключает нужного под задачу сам. Файлы — в `.claude/skills/`.
+
+**Активные в проекте (`.claude/skills/`):**
+- `discovery-interview` — глубокое интервью, превращает идею в чёткое ТЗ
+- `content-creator` — тексты для блога, соцсетей, маркетинга
+- `frontend-design` — дизайн веб-интерфейсов
+- `fullstack-developer` — разработка веб-приложений
+- `server-setup` — установка Агента на сервер (VPS)
+- `reminder` — напоминания и регулярные задачи
+
+**Плагин `superpowers` (включён глобально, во всех проектах):** 14 скиллов для планирования, разработки и ревью — `brainstorming`, `writing-plans`/`executing-plans`, `test-driven-development`, `systematic-debugging`, `requesting-code-review` и др.
+
+**В запасе (папка `skills/`, пока не активны):** 22 заготовки — дизайн и презентации (`presentation-generator`, `slides`, `brand`), `instagram-stories`, `competitor-research`, `day-planner` и др. Чтобы подключить — попросить перенести в `.claude/skills/`.
+
+---
+
 ## Предпочтения
 
 - **Обращение:** на «ты»
